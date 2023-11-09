@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "question": "What is Redux Saga?",
+    "options": [
+      "A state management library for JavaScript applications",
+      "A front-end framework",
+      "A middleware for handling asynchronous actions in Redux",
+      "A database management system"
+    ],
+    "answer": "A middleware for handling asynchronous actions in Redux"
+  },
+  {
+    "id": "2",
+    "question": "What problem does Redux Saga solve?",
+    "options": [
+      "Managing state in large JavaScript applications",
+      "Optimizing database queries",
+      "Handling user authentication",
+      "Handling complex asynchronous flows in Redux"
+    ],
+    "answer": "Handling complex asynchronous flows in Redux"
+  },
+  {
+    "id": "3",
+    "question": "What is the main purpose of a Saga in Redux Saga?",
+    "options": [
+      "To handle user authentication",
+      "To define routing in a Redux application",
+      "To handle complex asynchronous flows in Redux",
+      "To style user interfaces"
+    ],
+    "answer": "To handle complex asynchronous flows in Redux"
+  },
+  {
+    "id": "4",
+    "question": "How do you define a Saga in Redux Saga?",
+    "options": [
+      "As a generator function that yields Redux actions",
+      "As a higher-order component in React",
+      "As a middleware function in Redux",
+      "As a function that returns a promise"
+    ],
+    "answer": "As a generator function that yields Redux actions"
+  },
+  {
+    "id": "5",
+    "question": "What is the effect used in Redux Saga to handle asynchronous API calls?",
+    "options": [
+      "put",
+      "call",
+      "take",
+      "fork"
+    ],
+    "answer": "call"
+  },
+  {
+    "id": "6",
+    "question": "How do you handle errors in Redux Saga?",
+    "options": [
+      "By using the catch block in a Saga",
+      "By dispatching a special error action in Redux",
+      "By using the race effect in Redux Saga",
+      "By using the takeEvery effect in Redux Saga"
+    ],
+    "answer": "By using the catch block in a Saga"
+  },
+  {
+    "id": "7",
+    "question": "What is the purpose of the take effect in Redux Saga?",
+    "options": [
+      "To dispatch an action to the Redux store",
+      "To retrieve the current state from the Redux store",
+      "To register a callback function for a specific action",
+      "To handle complex asynchronous flows in Redux"
+    ],
+    "answer": "To register a callback function for a specific action"
+  },
+  {
+    "id": "8",
+    "question": "How do you cancel a Saga in Redux Saga?",
+    "options": [
+      "By dispatching a special cancel action",
+      "By using the cancel effect in Redux Saga",
+      "By removing the Saga from the root Saga",
+      "By using the takeLatest effect in Redux Saga"
+    ],
+    "answer": "By using the cancel effect in Redux Saga"
+  },
+  {
+    "id": "9",
+    "question": "What is the purpose of the delay effect in Redux Saga?",
+    "options": [
+      "To handle user authentication",
+      "To introduce a delay in the Saga execution",
+      "To define routing in a Redux application",
+      "To style user interfaces"
+    ],
+    "answer": "To introduce a delay in the Saga execution"
+  },
+  {
+    "id": "10",
+    "question": "What are some popular alternatives to Redux Saga for handling asynchronous actions in Redux?",
+    "options": [
+      "Redux Thunk",
+      "Redux Observable",
+      "Redux-Thunk-Saga",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  }
+]

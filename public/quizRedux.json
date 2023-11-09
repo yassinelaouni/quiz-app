@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "question": "What is Redux?",
+    "options": [
+      "A state management library for JavaScript applications",
+      "A front-end framework",
+      "A database management system",
+      "A programming language"
+    ],
+    "answer": "A state management library for JavaScript applications"
+  },
+  {
+    "id": "2",
+    "question": "What problem does Redux solve?",
+    "options": [
+      "Managing state in large JavaScript applications",
+      "Optimizing database queries",
+      "Handling user authentication",
+      "Styling user interfaces"
+    ],
+    "answer": "Managing state in large JavaScript applications"
+  },
+  {
+    "id": "3",
+    "question": "What are the core principles of Redux?",
+    "options": [
+      "Single source of truth and state is read-only",
+      "Component-based architecture and virtual DOM",
+      "Object-oriented programming and inheritance",
+      "Asynchronous programming and callbacks"
+    ],
+    "answer": "Single source of truth and state is read-only"
+  },
+  {
+    "id": "4",
+    "question": "What is an action in Redux?",
+    "options": [
+      "A function that updates the state in a Redux store",
+      "A component that renders user interface elements",
+      "An event triggered by user interaction",
+      "An object that describes a state change"
+    ],
+    "answer": "An object that describes a state change"
+  },
+  {
+    "id": "5",
+    "question": "What is a reducer in Redux?",
+    "options": [
+      "A pure function that calculates the next state based on the current state and an action",
+      "A utility for transforming data in an array",
+      "A middleware for handling asynchronous actions",
+      "A component that connects React with Redux"
+    ],
+    "answer": "A pure function that calculates the next state based on the current state and an action"
+  },
+  {
+    "id": "6",
+    "question": "What is a store in Redux?",
+    "options": [
+      "An object that holds the application's state tree",
+      "A database for storing Redux actions",
+      "A user interface component",
+      "A configuration file for Redux settings"
+    ],
+    "answer": "An object that holds the application's state tree"
+  },
+  {
+    "id": "7",
+    "question": "What is the purpose of middleware in Redux?",
+    "options": [
+      "To extend the behavior of the Redux dispatch function",
+      "To handle user authentication",
+      "To define routing in a Redux application",
+      "To style user interfaces"
+    ],
+    "answer": "To extend the behavior of the Redux dispatch function"
+  },
+  {
+    "id": "8",
+    "question": "What is an action creator in Redux?",
+    "options": [
+      "A function that returns an action object",
+      "A component responsible for creating new actions",
+      "A utility for transforming data in an array",
+      "A middleware for handling asynchronous actions"
+    ],
+    "answer": "A function that returns an action object"
+  },
+  {
+    "id": "9",
+    "question": "What is the purpose of the 'connect' function in React Redux?",
+    "options": [
+      "To connect a React component to the Redux store",
+      "To define routing in a React application",
+      "To handle user authentication",
+      "To style user interfaces"
+    ],
+    "answer": "To connect a React component to the Redux store"
+  },
+  {
+    "id": "10",
+    "question": "What is the purpose of the 'mapStateToProps' function in React Redux?",
+    "options": [
+      "To specify which part of the Redux store should be passed to a connected component as props",
+      "To define routing in a React application",
+      "To handle user authentication",
+      "To style user interfaces"
+    ],
+    "answer": "To specify which part of the Redux store should be passed to a connected component as props"
+  },
+  {
+    "id": "11",
+    "question": "What is the purpose of the 'mapDispatchToProps' function in React Redux?",
+    "options": [
+      "To specify which actions should be available as props in a connected component",
+      "To handle user authentication",
+      "To define routing in a React application",
+      "To style user interfaces"
+    ],
+    "answer": "To specify which actions should be available as props in a connected component"
+  },
+  {
+    "id": "12",
+    "question": "What is the purpose of the 'Provider' component in React Redux?",
+    "options": [
+      "To provide the Redux store to all components in the React component tree",
+      "To handle asynchronous actions in Redux",
+      "To define routing in a Redux application",
+      "To style user interfaces"
+    ],
+    "answer": "To provide the Redux store to all components in the React component tree"
+  }
+  ,{
+    "id": "13",
+    "question": "What is the purpose of the 'combineReducers' function in Redux?",
+    "options": [
+      "To combine multiple reducers into a single reducer function",
+      "To combine multiple actions into a single action",
+      "To combine multiple middleware into a single middleware function",
+      "To combine multiple store instances into a single store"
+    ],
+    "answer": "To combine multiple reducers into a single reducer function"
+  },
+  {
+    "id": "14",
+    "question": "What is the purpose of the 'getState' method in Redux?",
+    "options": [
+      "To retrieve the current state from the Redux store",
+      "To update the state in the Redux store",
+      "To dispatch an action to the Redux store",
+      "To connect a component to the Redux store"
+    ],
+    "answer": "To retrieve the current state from the Redux store"
+  },
+  {
+    "id": "15",
+    "question": "What is the purpose of the 'dispatch' method in Redux?",
+    "options": [
+      "To dispatch an action to the Redux store",
+      "To retrieve the current state from the Redux store",
+      "To update the state in the Redux store",
+      "To connect a component to the Redux store"
+    ],
+    "answer": "To dispatch an action to the Redux store"
+  },
+  {
+    "id": "16",
+    "question": "What is the purpose of the 'subscribe' method in Redux?",
+    "options": [
+      "To register a callback function that is called whenever the state in the Redux store changes",
+      "To retrieve the current state from the Redux store",
+      "To dispatch an action to the Redux store",
+      "To connect a component to the Redux store"
+    ],
+    "answer": "To register a callback function that is called whenever the state in the Redux store changes"
+  },
+  {
+    "id": "17",
+    "question": "What is the purpose of the 'applyMiddleware' function in Redux?",
+    "options": [
+      "To apply middleware to the Redux store",
+      "To handle user authentication",
+      "To define routing in a Redux application",
+      "To style user interfaces"
+    ],
+    "answer": "To apply middleware to the Redux store"
+  },
+  {
+    "id": "18",
+    "question": "What is the purpose of the 'thunk' middleware in Redux?",
+    "options": [
+      "To handle asynchronous actions in Redux",
+      "To handle user authentication",
+      "To define routing in a Redux application",
+      "To style user interfaces"
+    ],
+    "answer": "To handle asynchronous actions in Redux"
+  },
+  {
+    "id": "19",
+    "question": "What is the purpose of the 'DevToolsExtension' in Redux?",
+    "options": [
+      "To enable browser extensions for Redux development tools",
+      "To handle user authentication",
+      "To define routing in a Redux application",
+      "To style user interfaces"
+    ],
+    "answer": "To enable browser extensions for Redux development tools"
+  },
+  {
+    "id": "20",
+    "question": "What are some popular alternatives to Redux for state management in React applications?",
+    "options": [
+      "MobX",
+      "Context API",
+      "Apollo Client",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  }
+]

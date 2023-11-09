@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "category": "API Basics",
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Application Program Integration",
+      "Advanced Program Interface",
+      "Automated Programming Interface"
+    ],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "id": 2,
+    "category": "Web APIs",
+    "question": "Which protocol is commonly used for Web APIs?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "TCP/IP",
+      "SMTP"
+    ],
+    "answer": "HTTP"
+  },
+  {
+    "id": 3,
+    "category": "API Documentation",
+    "question": "What does API documentation typically include?",
+    "options": [
+      "Details about available endpoints",
+      "Request and response formats",
+      "Authentication mechanisms",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 4,
+    "category": "API Integration",
+    "question": "What is the purpose of integrating APIs into applications?",
+    "options": [
+      "To enhance functionality and capabilities",
+      "To ensure security of the application",
+      "To simplify the development process",
+      "To optimize network performance"
+    ],
+    "answer": "To enhance functionality and capabilities"
+  },
+  {
+    "id": 5,
+    "category": "API Authentication",
+    "question": "Which authentication mechanism is commonly used for securing APIs?",
+    "options": [
+      "API keys",
+      "OAuth",
+      "JWT",
+      "Basic authentication"
+    ],
+    "answer": "OAuth"
+  },
+  {
+    "id": 6,
+    "category": "API Design",
+    "question": "What is the recommended HTTP method for retrieving data from an API?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "answer": "GET"
+  },
+  {
+    "id": 7,
+    "category": "API Versioning",
+    "question": "Why is versioning important for APIs?",
+    "options": [
+      "To maintain backward compatibility",
+      "To track changes and updates",
+      "To support different client requirements",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 8,
+    "category": "API Scalability",
+    "question": "What is horizontal scaling in the context of API architecture?",
+    "options": [
+      "Adding more servers to handle increased load",
+      "Increasing the processing power of existing servers",
+      "Optimizing the database performance",
+      "Implementing caching mechanisms"
+    ],
+    "answer": "Adding more servers to handle increased load"
+  },
+  {
+    "id": 9,
+    "category": "API Errors",
+    "question": "What HTTP status code represents a successful API response?",
+    "options": [
+      "200",
+      "400",
+      "500",
+      "404"
+    ],
+    "answer": "200"
+  },
+  {
+    "id": 10,
+    "category": "API Security",
+    "question": "What is the purpose of rate limiting in API security?",
+    "options": [
+      "To prevent abuse and unauthorized access",
+      "To encrypt the API requests",
+      "To authenticate the users",
+      "To optimize performance"
+    ],
+    "answer": "To prevent abuse and unauthorized access"
+  },
+  {
+    "id": 11,
+    "category": "API Formats",
+    "question": "Which data format is commonly used for API responses?",
+    "options": [
+      "JSON",
+      "XML",
+      "CSV",
+      "YAML"
+    ],
+    "answer": "JSON"
+  },
+  {
+    "id": 12,
+    "category": "API Development",
+    "question": "What is the purpose of API testing?",
+    "options": [
+      "To ensure the correct functioning of API endpoints",
+      "To validate the input and output data",
+      "To handle errors and exceptions",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 13,
+    "category": "API Pagination",
+    "question": "What is API pagination used for?",
+    "options": [
+      "To limit the number of results in API responses",
+      "To enable navigation through large result sets",
+      "To improve performance by reducing data transfer",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+{
+"id": 14,
+"category": "API Best Practices",
+"question": "What is the recommended way to handle errors in API responses?",
+"options": [
+  "Use appropriate HTTP status codes",
+  "Return generic error messages",
+  "Do not provide error details to users",
+  "Only return errors in JSON format"
+],
+"answer": "Use appropriate HTTP status codes"
+},
+{
+"id": 15,
+"category": "API Performance",
+"question": "What is caching in the context of API performance?",
+"options": [
+  "Storing API responses temporarily for faster access",
+  "Encrypting API requests and responses",
+  "Validating user credentials for each API request",
+  "Compressing API data to reduce network bandwidth"
+],
+"answer": "Storing API responses temporarily for faster access"
+},
+{
+"id": 16,
+"category": "API Rate Limiting",
+"question": "What is the purpose of rate limiting in API usage?",
+"options": [
+  "To prevent abuse and ensure fair usage",
+  "To increase API performance",
+  "To add additional security layers",
+  "To encrypt API data during transmission"
+],
+"answer": "To prevent abuse and ensure fair usage"
+},
+{
+"id": 17,
+"category": "API Authorization",
+"question": "What is the difference between authentication and authorization in API security?",
+"options": [
+  "Authentication verifies the identity, authorization verifies the permissions",
+  "Authentication verifies the permissions, authorization verifies the identity",
+  "Authentication and authorization are the same",
+  "Authentication and authorization are not required for API security"
+],
+"answer": "Authentication verifies the identity, authorization verifies the permissions"
+},
+{
+"id": 18,
+"category": "API Governance",
+"question": "What is API governance?",
+"options": [
+  "A set of policies and processes for managing APIs",
+  "A programming language used for building APIs",
+  "An API testing framework",
+  "A performance monitoring tool for APIs"
+],
+"answer": "A set of policies and processes for managing APIs"
+},
+{
+"id": 19,
+"category": "API Versioning",
+"question": "What are the commonly used approaches for API versioning?",
+"options": [
+  "URL versioning, header versioning, and media type versioning",
+  "URL versioning only",
+  "Header versioning only",
+  "Media type versioning only"
+],
+"answer": "URL versioning, header versioning, and media type versioning"
+},
+{
+"id": 20,
+"category": "API Integration",
+"question": "What is the purpose of an API key in API integration?",
+"options": [
+  "To authenticate and identify the client accessing the API",
+  "To encrypt API data during transmission",
+  "To validate the API response",
+  "To limit the number of API requests"
+],
+"answer": "To authenticate and identify the client accessing the API"
+}
+]

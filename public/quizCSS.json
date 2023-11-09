@@ -1,0 +1,222 @@
+[
+  {
+    "id": "01",
+    "question": "Which property is used to change the text color of an element in CSS?",
+    "options": [
+      "color",
+      "font-color",
+      "text-color",
+      "text"
+    ],
+    "answer": "color"
+  },
+  {
+    "id": "02",
+    "question": "Which CSS property is used to control the spacing between lines of text?",
+    "options": [
+      "line-height",
+      "text-spacing",
+      "line-spacing",
+      "spacing"
+    ],
+    "answer": "line-height"
+  },
+  {
+    "id": "03",
+    "question": "Which CSS property is used to add shadows to elements?",
+    "options": [
+      "box-shadow",
+      "text-shadow",
+      "element-shadow",
+      "shadow"
+    ],
+    "answer": "box-shadow"
+  },
+  {
+    "id": "04",
+    "question": "Which CSS property is used to set the background color of an element?",
+    "options": [
+      "background-color",
+      "color",
+      "background",
+      "bgcolor"
+    ],
+    "answer": "background-color"
+  },
+  {
+    "id": "05",
+    "question": "Which CSS property is used to align text horizontally within an element?",
+    "options": [
+      "text-align",
+      "align",
+      "horizontal-align",
+      "text-horizontal-align"
+    ],
+    "answer": "text-align"
+  },
+  {
+    "id": "06",
+    "question": "Which CSS property is used to add a border to an element?",
+    "options": [
+      "border",
+      "element-border",
+      "border-style",
+      "border-color"
+    ],
+    "answer": "border"
+  },
+  {
+    "id": "07",
+    "question": "Which CSS property is used to control the size of a font?",
+    "options": [
+      "font-size",
+      "text-size",
+      "font",
+      "size"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "id": "08",
+    "question": "Which CSS property is used to control the space between elements?",
+    "options": [
+      "margin",
+      "padding",
+      "spacing",
+      "space-between"
+    ],
+    "answer": "margin"
+  },
+  {
+    "id": "09",
+    "question": "Which CSS property is used to make an element's text bold?",
+    "options": [
+      "font-weight",
+      "bold",
+      "text-weight",
+      "text-bold"
+    ],
+    "answer": "font-weight"
+  },
+  {
+    "id": "10",
+    "question": "Which CSS property is used to control the visibility of an element?",
+    "options": [
+      "display",
+      "visibility",
+      "visible",
+      "element-visibility"
+    ],
+    "answer": "visibility"
+  },
+  {
+    "id": "11",
+    "question": "Which CSS property is used to control the size of an element's border?",
+    "options": [
+      "border-width",
+      "border-size",
+      "size",
+      "element-border-size"
+    ],
+    "answer": "border-width"
+  },
+  {
+    "id": "12",
+    "question": "Which CSS property is used to change the font family of an element?",
+    "options": [
+      "font-family",
+      "text-font",
+      "font-type",
+      "typeface"
+    ],
+    "answer": "font-family"
+  },
+  {
+    "id": "13",
+    "question": "Which CSS property is used to control the size of an element?",
+    "options": [
+      "width",
+      "size",
+      "element-size",
+      "dimensions"
+    ],
+    "answer": "width"
+  },
+  {
+    "id": "14",
+    "question": "Which CSS property is used to control the visibility and accessibility of an element?",
+    "options": [
+      "display",
+      "visibility",
+      "accessible",
+      "hidden"
+    ],
+    "answer": "visibility"
+  },
+  {
+    "id": "15",
+    "question": "Which CSS property is used to control the indentation of the first line in a paragraph?",
+    "options": [
+      "text-indent",
+      "line-indent",
+      "paragraph-indent",
+      "indent"
+    ],
+    "answer": "text-indent"
+  },
+  {
+    "id": "16",
+    "question": "Which CSS property is used to control the spacing between letters in a text?",
+    "options": [
+      "letter-spacing",
+      "character-spacing",
+      "text-spacing",
+      "spacing"
+    ],
+    "answer": "letter-spacing"
+  },
+  {
+    "id": "17",
+    "question": "Which CSS property is used to control the position of an element?",
+    "options": [
+      "position",
+      "element-position",
+      "location",
+      "place"
+    ],
+    "answer": "position"
+  },
+  {
+    "id": "18",
+    "question": "Which CSS property is used to control the style of a list?",
+    "options": [
+      "list-style",
+      "style",
+      "list-format",
+      "format"
+    ],
+    "answer": "list-style"
+  },
+  {
+    "id": "19",
+    "question": "Which CSS property is used to control the transparency of an element?",
+    "options": [
+      "opacity",
+      "transparent",
+      "element-transparency",
+      "visibility"
+    ],
+    "answer": "opacity"
+  },
+  {
+    "id": "20",
+    "question": "Which CSS property is used to set the text to be uppercase or lowercase?",
+    "options": [
+      "text-transform",
+      "case-transform",
+      "letter-case",
+      "text-case"
+    ],
+    "answer": "text-transform"
+  }
+]
